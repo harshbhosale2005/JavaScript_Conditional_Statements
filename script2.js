@@ -42,3 +42,31 @@ switch(choice){
         console.log("INVALID CHOICE....!");
         
 }
+
+// Looping Statements
+
+for(let i=1; i<=10; i++){
+    console.log(i);    
+}
+
+for(let i=10; i>=1 ; i--){
+    console.log(i);
+    
+}
+
+let j=10;
+
+while(j >= 1){
+    console.log(j);
+    j--;
+}
+
+let jj=1;
+
+while(jj <= 10){
+    console.log(jj);
+    jj++;
+}
+
+
+
